@@ -28,7 +28,8 @@ DEBUG = True
 ALLOWED_HOSTS = [
     "3.36.105.17",
     ".ap-northeast-2.compute.amazonaws.com",
-    ".cofa.co.kr"
+    ".cofa.co.kr",
+    "django.cofa.co.kr"
 ]
 
 
